@@ -13,6 +13,6 @@ https://stackoverflow.com/questions/71201755/jwt-encode-error-expected-3-argumen
 ## Some Operation
 - Start Project : `php spark serve`
 - Migrate DB : `php spark migrate`
-- Create Model : `php spark make:model UserMode`l
+- Create Model : `php spark make:model UserModel`
 - Create Controller `Restfull : php spark make:controller Register --restful`
 - Create Filter : `php spark make:filter Auth`
